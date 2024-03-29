@@ -701,6 +701,14 @@ video {
   height: 100vh;
 }
 
+.h-7 {
+  height: 1.75rem;
+}
+
+.h-\[29px\] {
+  height: 29px;
+}
+
 .w-2 {
   width: 0.5rem;
 }
@@ -735,6 +743,14 @@ video {
 
 .w-\[80\%\] {
   width: 80%;
+}
+
+.w-7 {
+  width: 1.75rem;
+}
+
+.w-\[29px\] {
+  width: 29px;
 }
 
 .grid-cols-4 {
